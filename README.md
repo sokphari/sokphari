@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm khong koemtong (tingtong)
+## 👋 Hi there, I'm nat sokphary (sokphary)
 
 💻 Full-Stack Web Developer | 👨‍🏫 Web Development Instructor  
 🚀 Passionate about building real-world systems, dashboards & APIs
